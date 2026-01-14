@@ -1,5 +1,5 @@
 https://http192168.com/
-<h1>Server and File Manager for quick and easy file sharing via Wi-Fi and Termux</h1>
+<h1>A server and File Manager for quick and easy file sharing via Wi-Fi and Termux</h1>
 
 <ol>
 <li>Install Termux from F-Droid</li>
@@ -15,10 +15,10 @@ or
 <li>Restart Termux</li>
 </ol>
 
-With starting termfm.run the required packages will be downloaded from Termux repositories and installed - about 1GB - php, apache, ffmpeg (for video thumbnails) and qrencode. Answer the questions by default, with Еnter.
+With starting termfm.run the required packages will be downloaded from the Termux repositories and installed - about 1GB - php, apache, ffmpeg (for the video thumbnails) and qrencode. Answer the questions by default, with Еnter.
 After the above packages are installed, /files will be copied to the appropriate folders.
 
-Thumbnails and the other information about the JPEGs is extracted from the EXIF data, and the thumbnails of the video files are generated upon upload. No database.
+The thumbnails and the other information about the JPEGs is extracted from the EXIF data, and the thumbnails of the video files are generated upon upload. No database.
 
 Have fun!
 
