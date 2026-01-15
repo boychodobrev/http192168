@@ -1,5 +1,8 @@
+
+<img width="800" height="338" alt="A server and File Manager for quick and easy file sharing via Wi-Fi and Termux" src="https://github.com/user-attachments/assets/1b386f97-79b0-4740-9ff3-3d4ae46f4dad" />
+
 https://http192168.com/
-<h1>A server and File Manager for quick and easy file sharing via Wi-Fi and Termux</h1>
+<h1>Server and File Manager for quick and easy file sharing via Wi-Fi and Termux</h1>
 
 <ol>
 <li>Install Termux from F-Droid</li>
